@@ -12,24 +12,23 @@
 
 ##Technologies
 
-	* HTML 
-	*  CSS
-    	* JAVA SCRIPT
-	* TMDB API (The Movie DB Api)  
+* HTML 
+* CSS
+* JAVA SCRIPT
+* TMDB API (The Movie DB Api)  
 
 ##Features
 
-	* Display Popular Movie
-	* Display rating and overview of movie
-	* Search for a movie
+* Display Popular Movie
+* Display rating and overview of movie
+* Search for a movie
 
 ##Setup
 
-    * Download the project and open the index.html in your web browser:
+* Download the project and open the index.html in your web browser:
 
-
-	```shell
-            $git clone git@github.com:0script/movie-app.git
-            $cd movie-app/
-            $firefox index.html &
-        ```
+```shell
+$git clone git@github.com:0script/movie-app.git
+$cd movie-app/
+$firefox index.html &
+```
